@@ -1,0 +1,20 @@
+Fh whawh surylhqw gh od sdjh zlnlshgld qrpphh Fkliiuhphqw sdu ghfdodjh.
+
+Hq fubswrjudsklh, oh fkliiuhphqw sdu ghfdodjh, dxvvl frqqx frpph oh fkliiuh gh Fhvdu rx oh frgh gh Fhvdu (yrlu ohv gliihuhqwv qrpv), hvw xqh phwkrgh gh fkliiuhphqw wuhv vlpsoh xwlolvhh sdu Mxohv Fhvdu gdqv vhv fruuhvsrqgdqfhv vhfuhwhv (fh txl hasoltxh oh qrp: fkliiuh gh Fhvdu ).
+
+
+Oh whawh fkliiuh v'rewlhqw hq uhpsodfdqw fkdtxh ohwwuh gx whawh fodlu ruljlqdo sdu xqh ohwwuh d glvwdqfh ilah, wrxmrxuv gx phph frwh, gdqv o'ruguh gh o'doskdehw. 
+Srxu ohv ghuqlhuhv ohwwuhv (gdqv oh fdv g'xq ghfdodjh d gurlwh), rq uhsuhqg dx ghexw. 
+Sdu hahpsoh dyhf xq ghfdodjh gh 3 yhuv od gurlwh, D hvw uhpsodfh sdu G, E ghylhqw H, hw dlqvl mxvtx'd Z txl ghylhqw C, sxlv A ghylhqw D hwf. Lo v'djlw g'xqh shupxwdwlrq flufxodluh gh o'doskdehw. 
+
+Od orqjxhxu gx ghfdodjh, 3 gdqv o'hahpsoh hyrtxh, frqvwlwxh od foh gx fkliiuhphqw tx'lo vxiilw gh wudqvphwwuh dx ghvwlqdwdluh - v'lo vdlw ghmd tx'lo v'djlw g'xq fkliiuhphqw gh Fhvdu srxu txh fhoxl-fl sxlvvh ghfkliiuhu oh phvvdjh. 
+Gdqv oh fdv gh o'doskdehw odwlq, oh fkliiuh gh Fhvdu q'd txh 26 fohv srvvleohv (b frpsulv od foh qxooh, txl qh prglilh sdv oh whawh).
+
+
+
+
+Ce7texte7provient7de7la7page7wikipedia7nommee7Chiffrement7par7decalageE!!En7cryptographieC7le7chiffrement7par7decalageC7aussi7connu7comme7le7chiffre7de7Cesar7ou7le7code7de7Cesar7?voir7les7differents7noms@C7est7une7methode7de7chiffrement7tres7simple7utilisee7par7Jules7Cesar7dans7ses7correspondances7secretes7?ce7qui7explique7le7nomQ7chiffre7de7Cesar7@E!!!Le7texte7chiffre7s>obtient7en7remplacant7chaque7lettre7du7texte7clair7original7par7une7lettre7a7distance7fixeC7toujours7du7meme7coteC7dans7l>ordre7de7l>alphabetE7!Pour7les7dernieres7lettres7?dans7le7cas7d>un7decalage7a7droite@C7on7reprend7au7debutE7!Par7exemple7avec7un7decalage7de7J7vers7la7droiteC7A7est7remplace7par7DC7B7devient7EC7et7ainsi7jusqu>a7W7qui7devient7ZC7puis7X7devient7A7etcE7Il7s>agit7d>une7permutation7circulaire7de7l>alphabetE7!!La7longueur7du7decalageC7J7dans7l>exemple7evoqueC7constitue7la7cle7du7chiffrement7qu>il7suffit7de7transmettre7au7destinataire7D7s>il7sait7deja7qu>il7s>agit7d>un7chiffrement7de7Cesar7pour7que7celuiDci7puisse7dechiffrer7le7messageE7!Dans7le7cas7de7l>alphabet7latinC7le7chiffre7de7Cesar7n>a7que7IM7cles7possibles7?y7compris7la7cle7nulleC7qui7ne7modifie7pas7le7texte@E!!!!!
+
+
+
+
